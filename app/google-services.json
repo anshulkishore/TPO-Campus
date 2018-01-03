@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21377237373",
+    "firebase_url": "https://tpocampus-c04f8.firebaseio.com",
+    "project_id": "tpocampus-c04f8",
+    "storage_bucket": "tpocampus-c04f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21377237373:android:fa3c87c19a40ba00",
+        "android_client_info": {
+          "package_name": "com.example.anshul.tpocampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21377237373-ofutcunnifp15qj78uj0tg5k5l1vsvmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anshul.tpocampus",
+            "certificate_hash": "65e14985d57b01ba182ca22d0337e20cb395e950"
+          }
+        },
+        {
+          "client_id": "21377237373-9anj4ecv92sl8j9d6ue4qgrcj1attl04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbbQgi4V6G_9biNcxjD8Z7Bi91Uje15A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21377237373-9anj4ecv92sl8j9d6ue4qgrcj1attl04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

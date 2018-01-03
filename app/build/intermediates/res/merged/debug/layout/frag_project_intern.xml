@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_back5"
+    android:weightSum="1"
+    android:id="@+id/fragment_project_intern">
+
+    <LinearLayout
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/pro_bsave"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="SAVE" />
+
+        <EditText
+            android:layout_marginTop="16dp"
+            android:id="@+id/pro_eprojects"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Enter Your Projects!"
+            android:inputType="textMultiLine"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black"
+            android:layout_weight="0.29" />
+
+        <TextView
+            android:layout_marginTop="35dp"
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:text="INTERNSHIP:" />
+
+        <EditText
+            android:layout_marginTop="16dp"
+            android:id="@+id/pro_eorganisation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black"
+            android:inputType="textPersonName"
+            android:hint="Organisation" />
+
+        <EditText
+            android:layout_marginTop="16dp"
+            android:id="@+id/pro_edescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.29"
+            android:ems="10"
+            android:textColor="@android:color/black"
+            android:textColorHint="@android:color/black"
+            android:hint="Description"
+            android:inputType="textMultiLine" />
+
+
+    </LinearLayout>
+</ScrollView>

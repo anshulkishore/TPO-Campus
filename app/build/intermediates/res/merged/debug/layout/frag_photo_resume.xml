@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_back5"
+    android:id="@+id/fragment_photo_resume">
+
+
+    <LinearLayout
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_marginTop ="16dp"
+            android:id="@+id/ph_photo"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHOOSE PHOTO" />
+
+        <Button
+            android:layout_marginTop="16dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorAccent"
+            android:id="@+id/ph_upload_photo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UPLOAD PHOTO" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/ph_resume"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHOOSE RESUME" />
+
+        <Button
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorAccent"
+            android:id="@+id/ph_upload_resume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UPLOAD RESUME" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ph_imageView"
+        android:layout_width="230dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

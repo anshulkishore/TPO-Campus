@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main_background_blue_reverse"
+    tools:context="com.example.anshul.tpocampus.Admin.YearStats">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pre_final_year_intern_graph"
+        android:background="@color/colorAccent"
+        android:layout_margin="10dp"
+        android:text="INTERNSHIP OFFERS"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:layout_margin="10dp"
+        android:id="@+id/pre_final_year_stipend_graph"
+        android:text="AVERAGE STIPEND"/>
+
+</LinearLayout>

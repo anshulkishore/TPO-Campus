@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/main_back5"
+    android:id="@+id/fragment_personal">
+
+        <Button
+            android:id="@+id/per_save"
+            android:background="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:text="SUBMIT"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_margin="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingBottom ="50dp">
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp">
+                                <EditText
+                                    android:layout_marginTop="30dp"
+                                    android:id="@+id/per_ebatch"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Enter Batch: final year OR pre final year"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+                                <EditText
+                                    android:layout_marginTop="30dp"
+                                    android:id="@+id/per_ename"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Name"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+
+                                <EditText
+                                    android:id="@+id/per_ereg"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="RegNo"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_ecourse"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Course"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_ebranch"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Branch"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_eDOB"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Date of Birth"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_eemail"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:inputType="textEmailAddress"
+                                    android:hint="Email id"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_egender"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Gender"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_ecategory"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Category"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_eph"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Physically Challenged"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_eres"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Residential Status"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_eguardian"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Guardian"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_epre_addr"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Present Address"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_epar_addr"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Parmanent Address"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_emar_status"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="Marital Status"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                                <EditText
+                                    android:id="@+id/per_estate"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="10dp"
+                                    android:hint="State"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <android.support.design.widget.TextInputLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="30dp">
+
+                                <EditText
+                                    android:id="@+id/per_ecountry"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:hint="Country"
+                                    android:textColor="@android:color/black"
+                                    android:textColorHint="@android:color/black" />
+
+                        </android.support.design.widget.TextInputLayout>
+
+                        <!--<android.support.design.widget.FloatingActionButton
+                            android:id="@+id/per_fab"
+                            android:layout_width="233dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.16"
+                            android:clickable="true"
+                            android:layout_gravity="end"
+                            android:layout_marginBottom="20dp"
+                            android:onClick="save"
+                            app:fabSize="mini"
+                            app:srcCompat="@android:drawable/ic_input_add" />-->
+
+
+                </LinearLayout>
+
+        </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_reg_activity2.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_reg_activity2.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_reg.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_reg.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_p_profile.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_p_profile.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_extra.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_extra.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_students.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_students.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_companies_admin.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\menu_companies_admin.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\menu\\activity_navigation_drawer.xml"
+    }
+]

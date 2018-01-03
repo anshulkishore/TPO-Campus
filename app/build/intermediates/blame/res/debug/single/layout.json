@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navigation.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_home.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\profile_home.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auth_method_picker_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_students.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_students.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_registered_cmpanies.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_student_registered_cmpanies.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_navigation.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\app_bar_navigation.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_companies_admin.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_companies_admin.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete_company.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_delete_company.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_p_companies.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_p_companies.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_frag_photo_resume.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\p_frag_photo_resume.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_facebook.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\idp_button_facebook.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\email_hint_container_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\email_hint_container_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_fulltime_interview_experience.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_add_fulltime_interview_experience.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\signin_no_password_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_fulltime_company.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_add_fulltime_company.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_internships.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\profile_internships.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_personal.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\frag_personal.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_information_student_intern.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_company_information_student_intern.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_google.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\idp_button_google.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\df254aeba0fddb590d9323639266ce6571ee7bd5\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_company_register.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_student_company_register.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_p_internships.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_p_internships.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_companies_final_year.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\student_companies_final_year.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pie_chart.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_pie_chart.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_frag_change_pwd.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\p_frag_change_pwd.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_interview_exp_fulltime.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_interview_exp_fulltime.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_extra.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_extra.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\batch2_2018_2019.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\batch2_2018_2019.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_email_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\register_email_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_p_profile.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_p_profile.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_change_pwd.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\frag_change_pwd.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_interview_exp_main.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_interview_exp_main.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_project_intern.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\frag_project_intern.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_password_prompt_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_intern_interview_experience.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_add_intern_interview_experience.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_navigation.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\content_navigation.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_navigation.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\nav_header_navigation.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avg_bar_chart.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_avg_bar_chart.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selected_students.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_selected_students.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\forgot_password_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_photo_resume.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\frag_photo_resume.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display_interview_exp.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_display_interview_exp.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\batch_2017_2018.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\batch_2017_2018.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\df254aeba0fddb590d9323639266ce6571ee7bd5\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_companies.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\profile_companies.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_companies.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\student_companies.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\card_view.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_academic.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\frag_academic.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pre_final_year_stats.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_pre_final_year_stats.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_profile.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\admin_profile.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interview_exp_list.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\interview_exp_list.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_frag_project_intern.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\p_frag_project_intern.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reg_activity2.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_reg_activity2.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\df254aeba0fddb590d9323639266ce6571ee7bd5\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_contacts.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\profile_contacts.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_frag_academic.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\p_frag_academic.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_reg.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_reg.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\int_exp_main_list_row.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\int_exp_main_list_row.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_companies_2.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\card_view_companies_2.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_interview_exp_intern.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_interview_exp_intern.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_manage_student.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\admin_manage_student.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_credential.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\delete_credential.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reg.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_reg.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_recovery_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\confirm_recovery_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_p_home.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_p_home.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firebase_login.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\b64dfaf0e544ae06315dfc33e4217f755dbdcdf2\\output\\res\\layout\\fragment_firebase_login.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_intern_company.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_add_intern_company.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\df254aeba0fddb590d9323639266ce6571ee7bd5\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_login_page.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\main_login_page.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_profile.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\profile_profile.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\save_credentials_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\save_credentials_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_p_profile.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_p_profile.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_profile2.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\admin_profile2.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_p_contacts.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_p_contacts.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main_int_exp.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\content_main_int_exp.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_login.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\admin_login.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_students.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_students.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\2b343e5ef59e035f65202123406c4ae0f33e13f8\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_change_password.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\display_change_password.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_test.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_new_test.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered_students.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_registered_students.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_companies_admin.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\fragment_companies_admin.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_row.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\design_row.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_password.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_layout.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ecfcc03d1663ccd5dfa563709e8dc0d5a3ad3cc2\\output\\res\\layout\\sign_in_layout.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\companies_admin_2018_2019.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\companies_admin_2018_2019.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\f26f5f12733f1b78109843a7e8e00d6848d83e07\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\ce6048fc93cc2b87f1ae981084f20e141f47f7c5\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\p_frag_personal.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\p_frag_personal.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company_information_student_fulltime.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\activity_company_information_student_fulltime.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_student_companies.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\card_view_student_companies.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\a3cc7160c8a7680b68ca99d6c931a8fdce1b80b0\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\companies_admin_2017_2018.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\companies_admin_2017_2018.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_companies_1.xml",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\layout\\card_view_companies_1.xml"
+    }
+]

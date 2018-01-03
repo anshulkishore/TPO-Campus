@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_gallery.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_camera.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_share.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_manage.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_slideshow.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_send.png",
+        "source": "G:\\android\\TpoCampus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_send.png"
+    }
+]

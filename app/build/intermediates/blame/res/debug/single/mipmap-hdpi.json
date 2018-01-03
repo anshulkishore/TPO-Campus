@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logo_mnnit.png",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\mipmap-hdpi\\logo_mnnit.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\android\\TpoCampus\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

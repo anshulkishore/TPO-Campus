@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/main_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anshul.tpocampus.Student.Main_login_page">
+
+    <!--<android.support.v7.widget.Toolbar
+        android:id="@+id/main_login_page_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>-->
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/logo_mnnit"
+        tools:layout_editor_absoluteX="175dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <Button
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:id="@+id/stu_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login as Student"
+        android:background="@color/colorAccent"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="61dp" />
+
+    <Button
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="22dp"
+        android:id="@+id/admin_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login as Admin"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorAccent"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/stu_button"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

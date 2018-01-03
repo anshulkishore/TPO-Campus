@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">21377237373-9anj4ecv92sl8j9d6ue4qgrcj1attl04.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tpocampus-c04f8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">21377237373</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUbbQgi4V6G_9biNcxjD8Z7Bi91Uje15A</string>
+    <string name="google_app_id" translatable="false">1:21377237373:android:fa3c87c19a40ba00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUbbQgi4V6G_9biNcxjD8Z7Bi91Uje15A</string>
+    <string name="google_storage_bucket" translatable="false">tpocampus-c04f8.appspot.com</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\android\\TpoCampus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

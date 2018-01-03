@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_background2"
+        android:layout_below="@+id/linearLayout2">
+
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/textView5"
+            android:paddingBottom ="70dp">
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Batch:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_batch"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Name:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_name"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Reg No:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_regno"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Course:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_course"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Branch:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_branch"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="DOB:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_dob"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email id:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_email"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gender:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_gender"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Category:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_category"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Physically Challenged:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_phy_challenged"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Residential Status:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_res_status"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Guardian:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_guardian"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Present Address:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_present_addr"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Parmanent Address:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_parmanent_addr"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Marital Status:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_mar_status"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="State:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_state"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Country:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_country"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
+</LinearLayout>

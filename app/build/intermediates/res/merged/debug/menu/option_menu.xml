@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/manage_student"
+        android:title="Manage student"/>
+
+    <item android:id="@+id/profile_student"
+        android:title="View full profile"/>
+</menu>

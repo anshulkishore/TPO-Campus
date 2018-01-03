@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.anshul.tpocampus">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_mnnit"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Student.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Student.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Student.SignupActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Student.ResetPasswordActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Student.RegActivity"
+            android:label="@string/title_activity_reg"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Student.Navigation"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Student.p_home" />
+        <activity
+            android:name=".Student.p_profile"
+            android:label="@string/title_activity_p_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Student.Main_login_page">
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin.AdminLoginActivity">
+            android:label="Login"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin.AdminProfile">
+            android:label="Admin"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Admin.Students"
+            android:label="@string/title_activity_students"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Student.p_companies" />
+        <activity android:name=".Student.p_internships" />
+        <activity android:name=".Student.p_contacts" />
+        <activity android:name=".Student.new_test" />
+        <activity
+            android:name=".Admin.Companies_admin"
+            android:label="@string/title_activity_companies_admin"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin.AddInternCompany">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin.AddFulltimeCompany" />
+        <activity android:name=".Admin.ManageStudent" />
+        <activity android:name=".Student.StudentCompanyRegister" />
+        <activity android:name=".Student.CompanyInformationStudentIntern" />
+        <activity android:name=".Student.CompanyInformationStudentFulltime" />
+        <activity android:name=".Admin.RegisteredStudents" />
+        <activity android:name=".Admin.SelectedStudents" />
+        <activity android:name=".Admin.DeleteCompany" />
+        <activity android:name=".Student.StudentRegisteredCompanies" />
+        <activity android:name=".charts.BarChartActivity" />
+        <activity android:name=".Admin.YearStats" />
+        <activity android:name=".charts.AvgBarChartActivity" />
+        <activity android:name=".InterviewExperience.InterviewExpMain" />
+        <activity android:name=".InterviewExperience.InterviewExpIntern" />
+        <activity android:name=".InterviewExperience.InterviewExpFulltime" />
+        <activity android:name=".InterviewExperience.AddFulltimeInterviewExperience" />
+        <activity android:name=".InterviewExperience.AddInternInterviewExperience" />
+        <activity android:name=".InterviewExperience.DisplayInterviewExp"></activity>
+    </application>
+
+</manifest>

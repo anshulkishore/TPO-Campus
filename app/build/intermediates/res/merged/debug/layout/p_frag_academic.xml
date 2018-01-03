@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:background="@drawable/main_background2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linearLayout2">
+
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5">
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Current CPI:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_curr_cpi"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="10th School:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_10th_school"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="10th Board:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_10th_board"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="10th Year:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_10th_year"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="10th Percentage:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_10th_percentage"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="12th School:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_12th_school"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="12th Board:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_12th_board"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="12th Year:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_12th_year"
+                    android:textSize="15dp"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textStyle="bold"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="12th Percentage:"/>
+
+                <TextView
+                    android:id="@+id/f_tv_12th_percentage"
+                    android:textSize="15dp"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

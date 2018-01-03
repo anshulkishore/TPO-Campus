@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_background2"
+        android:layout_below="@+id/linearLayout2">
+
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5">
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Comapny Name:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_name"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Profile:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_profile"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Stipend:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_stipend"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:textSize="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Location:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_location"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cutoff CPI:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_cutoff_cpi"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Test Date:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_test_date"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Registration Deadline:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_reg_deadline"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Registration Deadline Time:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_reg_deadline_time"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Branches Allowed:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_branches_allowed"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Provision of PPO:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_provision_of_ppo"
+                    android:textColor="#A04000"
+                    android:textSize="15dp"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="#006064"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1.5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Additional Information:"/>
+
+                <TextView
+                    android:id="@+id/ci_tv_additional_info"
+                    android:textSize="15dp"
+                    android:textColor="#A04000"
+                    android:layout_margin="12dp"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
